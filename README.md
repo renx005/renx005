@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=200&section=header&text=Rena%20Elza%20Viju&fontSize=70&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=magenta&height=200&section=header&text=Rena%20Elza%20Viju&fontSize=70&fontColor=ffffff" width="100%" />
 
 <br/>
 
