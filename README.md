@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=Rena%20Elza%20Viju&fontSize=70&fontColor=ffffff" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=250&section=header&text=Rena%20Elza%20Viju&subtitle=Full-Stack%20Developer%20|%20MCA%20Student&fontSize=70&subtitleFontSize=25&fontColor=ffffff" width="100%" />
 <br/>
 
 <a href="https://www.linkedin.com/in/rena-elza-viju-02461b33b/">
