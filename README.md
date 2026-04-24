@@ -1,11 +1,6 @@
 <div align="center">
 
-<br/>
-<h1>MCA Student | Full-Stack</h1>
-
-<div style="background-color: #00b894; padding: 40px; border-radius: 10px;">
-  <h1 style="color: black; font-size: 3em; margin: 0;">Rena</h1>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=200&section=header&text=Rena&fontSize=90&fontColor=000000" width="100%" />
 
 <br/>
 
